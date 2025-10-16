@@ -15,3 +15,5 @@ Grup format per Èlia, Carlos i Llorenç
 - [X] Se han añadido comentarios clarificadores.
 - [ ] fer millor el readme
 - [ ] Video
+
+test
